@@ -1,0 +1,5 @@
+.card {
+    display: flex;
+    border-radius: 1px;
+    margin: 30px;
+}
